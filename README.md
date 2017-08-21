@@ -18,4 +18,4 @@ This component does one thing and making it easy to test.
 The project has been published and can be viewed using an Expo client using the following [link](https://exp.host/@torrens/recipepuppy) 
 
 
-
+![alt text](https://github.com/torrens/recipepuppy/blob/master/recipepuppy.gif)
